@@ -4,7 +4,7 @@
 - 🌱 **Currently learning:**  **Django**, **Spring Boot**, and enhancing my **Database** skills.
 - 👯 **Looking to collaborate on:** **Web Development** projects, especially with **Java** or **Python** frameworks.
 - 💬 **Ask me about:** Python, Django, Java, Spring Boot, JSP/Servlets, MySQL, PL/SQL, HTML, CSS, JavaScript.
-- 📫 **How to reach me:** [patelkeyuri2002@gmail.com](mailto:patelkeyuri2002@gmail.com)
+- 📫 **How to reach me:** [keyuripatel2002@gmail.com](mailto:keyuripatel2002@gmail.com)
 - 😄 **Pronouns:** **She/Her**
 - ⚡ **Fun fact:** I am passionate about learning and working with cutting-edge technologies. My mission is to build high-quality, scalable applications that can make a difference. I enjoy experimenting with new technologies and solving complex problems through hands-on projects. Outside of coding, I love solving algorithmic puzzles and exploring new tech trends.
 
@@ -53,7 +53,7 @@ A responsive **E-Commerce Shopping Website** developed with **PHP**, designed us
 
 ### 🌐 Connect with me:
 
-- **Email:** [patelkeyuri2002@gmail.com](mailto:patelkeyuri2002@gmail.com)  
+- **Email:** [keyuripatel2002@gmail.com](mailto:keyuripatel2002@gmail.com)  
 
 ---
 
