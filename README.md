@@ -37,7 +37,7 @@
 
 ## 📂 Featured Projects:
 
-### [Smart Kisan AI](https://github.com/keyuripatel2012/Smart-Kisan-AI)
+### [Smart Kisan AI](https://github.com/keyuripatel2012/SmartKisan-AI)
 
 ### [Attendance Management System](https://github.com/keyuripatel2012/Attendance-Management-System)
 A comprehensive **Attendance Management System** built with **Java Spring Boot**, featuring attendance tracking, timetable management, exam scheduling, result processing, and leave applications.
