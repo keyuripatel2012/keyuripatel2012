@@ -1,4 +1,4 @@
-# Hi, I'm Keyuri V Patel 👋  
+# Hi, I'm Keyuri Patel 👋  
 ### Full Stack Developer
 
 - 🌱 **Currently learning:**  **Django**, **Spring Boot**, and enhancing my **Database** skills.
