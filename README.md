@@ -1,5 +1,5 @@
 # Hi, I'm Keyuri Patel 👋  
-### Full Stack Developer | AI Enthusiast | Python Lover
+### Full Stack Developer | Python Developer | AI Enthusiast 
 
 - 🌱 **Currently learning:** **Django**, **Spring Boot**, **Artificial Intelligence**, and enhancing my **Database** & **Machine Learning** skills.
 - 👯 **Looking to collaborate on:** **Web Development** & **AI-based projects**, especially using **Python**, **Django**, **Spring Boot**, or **Machine Learning** libraries.
@@ -10,7 +10,11 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyuripatel2012" alt="keyuripatel2012" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=keyuripatel2012" alt="keyuripatel2012" />
+  </a> 
+</p>
 
 ## 🛠️ Technologies I work with:
 
@@ -39,18 +43,19 @@
 ## 📂 Featured Projects:
 
 ### [Smart Kisan AI](https://github.com/keyuripatel2012/SmartKisan-AI)
+An intelligent agriculture support system that uses **AI** to recommend best practices and weather-based guidance for farmers.
 
 ### [Attendance Management System](https://github.com/keyuripatel2012/Attendance-Management-System)
-A comprehensive **Attendance Management System** built with **Java Spring Boot**, featuring attendance tracking, timetable management, exam scheduling, result processing, and leave applications.
+Built with **Spring Boot**, includes features like automated attendance tracking and result processing.
 
 ### [Employee Management System](https://github.com/keyuripatel2012/Employee-Management-System)
-A database-driven **Employee Management System** implemented using **PL/SQL**, showcasing advanced database features like triggers, procedures, and functions.
+Advanced **PL/SQL** system with database triggers, stored procedures, and a focus on backend logic.
 
 ### [eNotes](https://github.com/keyuripatel2012/eNotes)
-A web-based **eNotes** application developed using **JSP and Servlets**, offering full CRUD functionality, seamless database integration, and user management.
+A full CRUD-based note-taking app developed using **JSP** and **Servlets**.
 
 ### [eCommerce Shopping Website](https://github.com/keyuripatel2012/eCommerce-Shopping-Website)
-A responsive **E-Commerce Shopping Website** developed with **PHP**, designed using **HTML5** and **Bootstrap CSS3**, with functionalities like wishlist management, add-to-cart, and basic payment options.
+Built with **PHP**, features cart management, wishlist, and UI with **Bootstrap CSS**.
 
 ---
 
@@ -59,4 +64,3 @@ A responsive **E-Commerce Shopping Website** developed with **PHP**, designed us
 - **Email:** [keyuripatel2002@gmail.com](mailto:keyuripatel2002@gmail.com)  
 
 ---
-
