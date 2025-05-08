@@ -1,5 +1,5 @@
 # Hi, I'm Keyuri Patel 👋  
-### Full Stack Developer | Python Developer | AI Enthusiast 
+### Full Stack Developer | Python Developer | AI Enthusiast
 
 - 🌱 **Currently learning:** **Django**, **Spring Boot**, **Artificial Intelligence**, and enhancing my **Database** & **Machine Learning** skills.
 - 👯 **Looking to collaborate on:** **Web Development** & **AI-based projects**, especially using **Python**, **Django**, **Spring Boot**, or **Machine Learning** libraries.
