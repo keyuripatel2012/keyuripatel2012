@@ -3,7 +3,7 @@
 
 - 🌱 **Currently learning:** **Django**, **Spring Boot**, **Artificial Intelligence**, and enhancing my **Database** & **Machine Learning** skills.
 - 👯 **Looking to collaborate on:** **Web Development** & **AI-based projects**, especially using **Python**, **Django**, **Spring Boot**, or **Machine Learning** libraries.
-- 💬 **Ask me about:** Python, AI/ML (Scikit-learn, Pandas, NumPy), Django, Java, Spring Boot, JSP/Servlets, MySQL, PL/SQL, HTML, CSS, JavaScript.
+- 💬 **Ask me about:** Python, AI/ML (Scikit-learn, Pandas, NumPy, Hugging Face, Transformers), NLP, Django, Java (Spring Boot, JSP/Servlets), MySQL, PL/SQL, HTML/CSS/JS, Voice & Face Recognition (OpenCV, DeepFace, SpeechRecognition)
 - 📫 **How to reach me:** [keyuripatel2002@gmail.com](mailto:keyuripatel2002@gmail.com)
 - 😄 **Pronouns:** **She/Her**
 - ⚡ **Fun fact:** I’m deeply passionate about **AI** and how it’s transforming the tech world. I thrive on building smart, scalable applications that solve real-world problems. When I’m not coding, I love experimenting with new algorithms and exploring the latest AI trends.
